@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1592905726771,
+    "type": "Brandy",
+    "name": "Klipdrift",
+    "category": "Premium",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1593398892140,
+    "type": "Gin",
+    "name": "Hendriks",
+    "category": "Regular",
+    "abv": 44,
+    "quantity": 1750,
+    "used": 0
+  },
+  {
+    "id": 1593089223974,
+    "type": "Rum",
+    "name": "Captain Morgan",
+    "category": "Dark",
+    "abv": 35,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1593398651870,
+    "type": "Rum",
+    "name": "Bacardi",
+    "category": "White",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1592896927259,
+    "type": "Tequila",
+    "name": "Olmega",
+    "category": "Gold",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1593398748864,
+    "type": "Tequila",
+    "name": "Patron",
+    "category": "Silver",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1593399034025,
+    "type": "Triple Sec",
+    "name": "Cointreau",
+    "category": "Regular",
+    "abv": 40,
+    "quantity": 1000,
+    "used": 0
+  },
+  {
+    "id": 1592751102889,
+    "type": "Vodka",
+    "name": "Kettle One",
+    "category": "Premium",
+    "abv": "50",
+    "quantity": "750",
+    "used": 0
+  },
+  {
+    "id": 1592905497871,
+    "type": "Vodka",
+    "name": "Skyy",
+    "category": "Regular",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1593232813305,
+    "type": "Vodka",
+    "name": "Gray Goose",
+    "category": "Premium",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1592314307975,
+    "type": "Whiskey",
+    "name": "Canadian Club",
+    "category": "Single Malt",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  },
+  {
+    "id": 1593054608720,
+    "type": "Whiskey",
+    "name": "Johnny Walker Black",
+    "category": "Premium",
+    "abv": 40,
+    "quantity": 750,
+    "used": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1592366812048,
+    "type": "Cocktail Glass",
+    "volume": 7,
+    "image": ""
+  },
+  {
+    "id": 1592366872016,
+    "type": "Shot Glass",
+    "volume": 2,
+    "image": ""
+  },
+  {
+    "id": 1592366801752,
+    "type": "Tall Glass",
+    "volume": 10,
+    "image": ""
+  },
+  {
+    "id": 1592366858055,
+    "type": "Tumbler",
+    "volume": 4,
+    "image": ""
+  }
+]

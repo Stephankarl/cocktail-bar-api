@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1593399591006,
+    "name": "Long Island Iced Tea",
+    "liquor": [
+      {
+        "type": "Gin",
+        "category": "Regular",
+        "name": "Hendriks",
+        "quantity": "1"
+      },
+      {
+        "type": "Rum",
+        "category": "White",
+        "name": "Bacardi",
+        "quantity": "1"
+      },
+      {
+        "type": "Tequila",
+        "category": "Silver",
+        "name": "Patron",
+        "quantity": "1"
+      },
+      {
+        "type": "Triple Sec",
+        "category": "Regular",
+        "name": "Cointreau",
+        "quantity": "1"
+      },
+      {
+        "type": "Vodka",
+        "category": "Regular",
+        "name": "Skyy",
+        "quantity": "1"
+      }
+    ],
+    "mixers": [
+      {
+        "type": "Lemon Juice",
+        "category": "Regular",
+        "quantity": "1"
+      },
+      {
+        "type": "Coke",
+        "category": "Light",
+        "quantity": "3"
+      }
+    ],
+    "garnish": "Lemon Wedge",
+    "glassType": "Tall Glass",
+    "made": 0
+  },
+  {
+    "id": 1593345804038,
+    "name": "Brandy & Coke",
+    "liquor": [
+      {
+        "type": "Brandy",
+        "category": "Premium",
+        "name": "Klipdrift",
+        "quantity": "2"
+      }
+    ],
+    "mixers": [
+      {
+        "type": "Coke",
+        "category": "Light",
+        "quantity": "5"
+      }
+    ],
+    "garnish": "Orange",
+    "glassType": "Tall Glass",
+    "made": 0
+  }
+]

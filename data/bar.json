@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "liquor": "Skyy",
+    "position": {
+      "x": "",
+      "y": ""
+    }
+  },
+  {
+    "id": "2",
+    "liquor": "",
+    "position": {
+      "x": "",
+      "y": ""
+    }
+  },
+  {
+    "id": "3",
+    "liquor": "",
+    "position": {
+      "x": "",
+      "y": ""
+    }
+  },
+  {
+    "id": "4",
+    "liquor": "",
+    "position": {
+      "x": "",
+      "y": ""
+    }
+  },
+  {
+    "id": "5",
+    "liquor": "",
+    "position": {
+      "x": "",
+      "y": ""
+    }
+  }
+]

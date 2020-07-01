@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1593400528375,
+    "type": "Apple Juice",
+    "category": "Regular",
+    "quantity": 1000,
+    "used": 0
+  },
+  {
+    "id": 1593264688677,
+    "type": "Coke",
+    "category": "Light",
+    "quantity": 2000,
+    "used": 0
+  },
+  {
+    "id": 1592311602215,
+    "type": "Coke",
+    "category": "zero",
+    "quantity": "2000",
+    "used": 0
+  },
+  {
+    "id": 1593400224365,
+    "type": "Fanta",
+    "category": "Orange",
+    "quantity": 2000,
+    "used": 0
+  },
+  {
+    "id": 1593399311092,
+    "type": "Lemon Juice",
+    "category": "Regular",
+    "quantity": 1000,
+    "used": 0
+  },
+  {
+    "id": 1593344337333,
+    "type": "Sprite",
+    "category": "Zero",
+    "quantity": 2000,
+    "used": 0
+  }
+]
